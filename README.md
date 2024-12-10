@@ -1,6 +1,6 @@
-# grapcore
+<h1>grapcore</h1>
 Initial script with following functions:
-+ Disabling GTAV flight music
++ Disabling flight music
 + Disabling auto reloading
 + Fixing flashlight on weapons
 + Fixing fire extinguisher
@@ -14,5 +14,5 @@ Initial script with following functions:
 
 <b>Feel free to delete anything you don’t like when adding this resource to your server.</b>
 
-## Credits
+<h3>Credits</h3>
 Luxart
