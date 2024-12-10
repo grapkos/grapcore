@@ -12,7 +12,7 @@ Initial script with following functions:
 + Controlling vehicle sirens, changing seats
 + Holding F while exiting will keep the engine running
 
-Feel free to delete anything you don’t like when adding this resource to your server.
+<b>Feel free to delete anything you don’t like when adding this resource to your server.</b>
 
 ## Credits
 Luxart
