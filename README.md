@@ -1,7 +1,8 @@
 # grapcore
 Initial script with following functions:
-+ Disabling GTA5 flight music
++ Disabling GTAV flight music
 + Disabling auto reloading
++ Fixed flashlight on weapons
 + Fixed fire extinguisher
 + Option to completely ignore player by world
 + Hide ammunition count, street names and crosshair
