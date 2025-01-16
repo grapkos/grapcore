@@ -40,4 +40,4 @@
        - Maybe, I will add these features later.
 
 #### Disclaimer
-This is just a collection of simple LUA scripts combined in one resource. I definitely did not write all this code.
+<sub>This is just a collection of simple LUA scripts combined in one resource. I definitely did not write all this code.</sub>
