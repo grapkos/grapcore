@@ -39,5 +39,5 @@
      - If any suggestion comes to your mind, feel free to contact me on Discord `@grapkos`
        - Maybe, I will add these features later.
 
-#### Disclaimer
-<sub>This is just a collection of simple LUA scripts combined in one resource. I definitely did not write all this code.</sub>
+<bold><sub>Disclaimer</sub></bold>
+<sub>This is just a collection of simple scripts combined in one resource. I definitely did not write all this code.</sub>
