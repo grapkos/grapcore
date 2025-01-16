@@ -33,7 +33,7 @@
 
 ### FAQ
 1. Do I require any framework for this resource to work properly?
-     - No, you do not. This resource is STANDALONE.
+     - No, you do not. This resource is **STANDALONE**.
 
 2. Can you add more featrues?
      - If any suggestion comes to your mind, feel free to contact me on Discord `@grapkos`
