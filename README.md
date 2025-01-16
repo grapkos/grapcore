@@ -3,7 +3,7 @@
 
 ### Features listed here
 - [x]  Disable Aim Assist
-- [x]  Disable Drive By
+- [x]  Disable Drive By At High Speed
 - [x]  Disable Stamina Regeneration
 - [x]  Disable Health Regeneration
 - [x]  Disable Vehicle Weapon Drops
@@ -26,10 +26,10 @@
 - [x]  Enable Prop Fixer
 - [x]  Enable Presistent Wheels
 - [x]  Leave Engine Running
-- [x]  Hide Radar On Foo
+- [x]  Hide Radar On Foot
 - [x]  Hide Weapon Reticle
 - [x]  Hide Hud Elements
-- [x]  AI Multiplier
+- [x]  Ped & Vehicle Multiplier
 
 ### FAQ
 1. Do I require any framework for this resource to work properly?
@@ -39,4 +39,4 @@
      - If any suggestion comes to your mind, feel free to contact me on Discord `@grapkos`
        - Maybe, I will add these features later.
 
-<sub>Disclaimer: This is just a collection of quality of life scripts combined in one resource. I definitely did not write all this code. If this is your code and you feel harmed, contact me.</sub>
+<sub>Disclaimer: This is just a collection of quality of life scripts combined in one resource. I definitely did not write all this code. If this is your code and you feel harmed, contact me. I am sure we will figure things out.</sub>
