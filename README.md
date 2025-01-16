@@ -2,7 +2,7 @@
 > Miscellaneous scripts for enhancing player's gameplay experience
 
 ### Features listed here
-```lua
+```
 Disable Aim Assist
 Disable Drive By
 Disable Stamina Regeneration
