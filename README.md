@@ -25,7 +25,7 @@
 - [x]  Disable Vehicle Damage (Anti VDM)
 - [x]  Enable Prop Fixer
 - [x]  Enable Presistent Wheels
-- [x]  Leave Engine Running
+- [x]  Leave Engine Running (When holding F)
 - [x]  Hide Radar On Foot
 - [x]  Hide Weapon Reticle
 - [x]  Hide Hud Elements
