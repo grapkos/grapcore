@@ -1,15 +1,26 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'grapkos'
-version '2024'
+lua54 'yes'
 
-client_scripts {
-    'client/hud.lua',
-    'client/ignore.lua',
-    'client/miscellaneous.lua',
-    'client/surrender.lua',
-    'client/vehcontrol.lua'
+author 'grapkos' 
+description 'Miscellaneous, enhancing game experience'
+version '2.0.0 <2025>'
+
+data_file 'VEHICLE_METADATA_FILE' 'handling.meta'
+
+files {
+	'handling.meta'
 }
 
-server_script 'server/server.lua'
+server_scripts {
+    'server/*.lua'
+}
+
+client_scripts {
+    'client/*.lua'
+}
+
+shared_scripts {
+    'config.lua'
+}
