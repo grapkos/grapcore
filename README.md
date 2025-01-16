@@ -36,7 +36,7 @@
      - No, you do not. This resource is STANDALONE.
 
 2. Can you add more featrues?
-     - If any suggestion comes to your mind, feel free to contact me on Discord (`@grapkos`)
+     - If any suggestion comes to your mind, feel free to contact me on Discord `@grapkos`
        - Maybe, I will add these features later.
 
 #### Disclaimer
