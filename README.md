@@ -2,33 +2,31 @@
 > Miscellaneous scripts for enhancing player's gameplay experience
 
 ### Features listed here
-```
-Disable Aim Assist
-Disable Drive By
-Disable Stamina Regeneration
-Disable Health Regeneration
-Disable Vehicle Weapon Drops
-Disable Weapon Drops
-Disable Bunny Hopping
-Disable Automatic Weapon Reloading
-Disable Combat Rolling
-Disable Aim Exploiting
-Enable Presistent Flashlight
-Enable Surrender Animation
-Enable Crouch
-Enable Ragdoll
-Enable Brake Lights
-Disable Radio By Default
-Infinite Fire Extinguisher
-Disable Flight Music
-Disable Police Scanner
-Disable Idle Camera
-Disable Vehicle Damage (Anti VDM)
-Enable Prop Fixer
-Enable Presistent Wheels
-Leave Engine Running
-Hide Radar On Foo
-Hide Weapon Reticle
-Hide Hud Elements
-AI Multiplier
-```
+[x]  Disable Aim Assist
+[x]  Disable Drive By
+[x]  Disable Stamina Regeneration
+[x]  Disable Health Regeneration
+[x]  Disable Vehicle Weapon Drops
+[x]  Disable Weapon Drops
+[x]  Disable Bunny Hopping
+[x]  Disable Automatic Weapon Reloading
+[x]  Disable Combat Rolling
+[x]  Disable Aim Exploiting
+[x]  Enable Presistent Flashlight
+[x]  Enable Surrender Animation
+[x]  Enable Crouch
+[x]  Enable Ragdoll
+[x]  Enable Brake Lights
+[x]  Disable Radio By Default
+[x]  Infinite Fire Extinguisher
+[x]  Disable Flight Music
+[x]  Disable Police Scanner
+[x]  Disable Idle Camera
+[x]  Disable Vehicle Damage (Anti VDM)
+[x]  Enable Prop Fixer
+[x]  Enable Presistent Wheels
+[x]  Leave Engine Running
+[x]  Hide Radar On Foo
+[x]  Hide Weapon Reticle
+[x]  Hide Hud Elements
+[x]  AI Multiplier
