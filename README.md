@@ -14,8 +14,8 @@
 - [x]  Disable Aim Exploiting
 - [x]  Enable Presistent Flashlight
 - [x]  Enable Surrender Animation
-- [x]  Enable Crouch
-- [x]  Enable Ragdoll
+- [x]  Enable Crouch Animation
+- [x]  Enable Ragdoll Animation
 - [x]  Enable Brake Lights
 - [x]  Disable Radio By Default
 - [x]  Infinite Fire Extinguisher
