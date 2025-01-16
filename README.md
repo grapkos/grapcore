@@ -39,5 +39,4 @@
      - If any suggestion comes to your mind, feel free to contact me on Discord `@grapkos`
        - Maybe, I will add these features later.
 
-<bold><sub>Disclaimer</sub></bold>
-<sub>This is just a collection of simple scripts combined in one resource. I definitely did not write all this code.</sub>
+<sub>Disclaimer: This is just a collection of quality of life scripts combined in one resource. I definitely did not write all this code. If this is your code and you feel harmed, contact me.</sub>
