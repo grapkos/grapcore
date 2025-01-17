@@ -1,3 +1,5 @@
+[https://img.shields.io/github/downloads/grapkos/grapcore/total?style=for-the-badge]
+
 # grapcore 2.0
 > Miscellaneous scripts for enhancing player's gameplay experience
 
