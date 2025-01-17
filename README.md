@@ -1,5 +1,3 @@
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/grapkos/grapcore/total?style=for-the-badge) ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
-
 # grapcore 2.0
 > Miscellaneous scripts for enhancing player's gameplay experience
 
