@@ -1,5 +1,5 @@
 # grapcore 2.0
-> Miscellaneous scripts for enhancing player's gameplay experience
+> Miscellaneous FiveM scripts collection for enhancing player's gameplay experience
 
 ### Features listed here
 - [x]  Disable Aim Assist
