@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=grapkos&color=C4D9FF&abbreviated=true&label=REPOSTORY+VIEWS&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=grapkos&color=3A3960&abbreviated=true&label=REPOSTORY+VIEWS&style=for-the-badge)
 
 # grapcore 2.0
 > Miscellaneous FiveM scripts collection for enhancing player's gameplay experience
