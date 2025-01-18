@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true)
+
 # grapcore 2.0
 > Miscellaneous FiveM scripts collection for enhancing player's gameplay experience
 
