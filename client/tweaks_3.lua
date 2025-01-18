@@ -1,14 +1,3 @@
-if Config.RadioOffByDefault then
-    RegisterNetEvent('DisableRadio')
-    AddEventHandler('DisableRadio', function()
-        SetVehRadioStation(GetVehiclePedIsIn(PlayerPedId(), false), 'OFF')
-    end)
-
-    AddEventHandler('playerEnteredVehicle', function(vehicle, seat)
-        SetVehRadioStation(vehicle, 'OFF')
-    end)
-end
-
 if Config.InfiniteFireExtinguisher then
     local playerPed = PlayerPedId()
     local weapHash = GetHashKey('WEAPON_FIREEXTINGUISHER')
