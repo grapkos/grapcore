@@ -19,6 +19,7 @@
 - [x]  Enable Crouch Animation
 - [x]  Enable Ragdoll Animation
 - [x]  Enable Brake Lights
+- [x]  Default Radio Station: OFF
 - [x]  Infinite Fire Extinguisher
 - [x]  Disable Flight Music
 - [x]  Disable Police Scanner
