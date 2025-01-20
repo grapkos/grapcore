@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=grapkos&color=4635B1&abbreviated=true&label=REPOSITORY+VIEWS&style=for-the-badge) ![](https://img.shields.io/badge/LAST%20UPDATED%3A%201%2F20%2F2025?style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=grapkos&color=4635B1&abbreviated=true&label=REPOSITORY+VIEWS&style=for-the-badge) ![](https://img.shields.io/badge/LAST%20UPDATED%3A%201%2F20%2F2025-20B2AA?style=for-the-badge)
 
 
 # grapcore 2.0
