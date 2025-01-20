@@ -189,7 +189,7 @@ if Config.EnableRagdoll then
     Citizen.CreateThread(function()
         while true do
             Citizen.Wait(0)
-            if IsControlJustPressed(2, 36) and IsPedOnFoot(PlayerPedId()) then
+            if IsControlJustPressed(2, 303) and IsPedOnFoot(PlayerPedId()) then
                 if isInRagdoll then
                     isInRagdoll = false
                 else
