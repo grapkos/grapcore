@@ -169,9 +169,9 @@ if Config.EnableRagdoll then
         local playerPed = PlayerPedId()
     
         if isInRagdoll then
-            isInRagdoll = false  -- Exit ragdoll mode
+            isInRagdoll = false
         else
-            isInRagdoll = true   -- Enter ragdoll mode
+            isInRagdoll = true
         end
     end, false)
     
