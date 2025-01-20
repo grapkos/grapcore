@@ -6,7 +6,7 @@ if Config.RadioOffByDefault then
                     local playerPed = PlayerPedId()
                 local vehicle = GetVehiclePedIsIn(playerPed, false)
                 if vehicle ~= 0 then
-                    SetVehicleRadioStation(vehicle, "OFF")
+                    SetVehicleRadioStation(vehicle, "RADIO_36_AUDIOPLAYER")
                     SetUserRadioControlEnabled(true)
                 end
             end
