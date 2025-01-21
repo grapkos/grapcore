@@ -46,7 +46,6 @@ Config.EnableBrakeLights =true
    |_|   \_/\_/ |___/_/ \_\_|\_\___/ |___/                                                                                                                                                                                                                                  
 --]]
 
-Config.RadioOffByDefault = true
 Config.InfiniteFireExtinguisher = true
 Config.DisableFlightMusic = true
 Config.DisablePoliceScanner = true
