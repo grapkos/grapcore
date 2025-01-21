@@ -1,19 +1,3 @@
-if Config.RadioOffByDefault then
-    AddEventHandler('playerSpawned', function()
-        Citizen.CreateThread(function()
-            while true do
-                Citizen.Wait(0)
-                    local playerPed = PlayerPedId()
-                local vehicle = GetVehiclePedIsIn(playerPed, false)
-                if vehicle ~= 0 then
-                    SetVehicleRadioStation(vehicle, "OFF")
-                    SetUserRadioControlEnabled(true)
-                end
-            end
-        end)
-    end)
-end
-
 if Config.InfiniteFireExtinguisher then
     local playerPed = PlayerPedId()
     local weapHash = GetHashKey('WEAPON_FIREEXTINGUISHER')
