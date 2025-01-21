@@ -5,8 +5,8 @@
 > Miscellaneous FiveM scripts collection for enhancing player's gameplay experience
 
 ### Features listed here
-```
-✅ Disable Aim Assist
+<h3>
+✅  Disable Aim Assist
 ✅  Disable Drive By At High Speed
 ✅  Disable Stamina Regeneration
 ✅  Disable Health Regeneration
@@ -34,7 +34,7 @@
 ✅  Hide Weapon Reticle
 ✅  Hide Hud Elements
 ✅  Ped & Vehicle Multiplier
-```
+</h3>
 
 ### FAQ
 1. Do I require any framework for this resource to work properly?
