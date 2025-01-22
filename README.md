@@ -5,34 +5,34 @@
 > Miscellaneous FiveM scripts collection for enhancing player's gameplay experience
 
 ### Features listed here
-## ✅  Disable Aim Assist
-## ✅  Disable Drive By At High Speed
-## ✅  Disable Stamina Regeneration
-## ✅  Disable Health Regeneration
-## ✅  Disable Vehicle Weapon Drops
-## ✅  Disable Weapon Drops
-## ✅  Disable Bunny Hopping
-## ✅  Disable Automatic Weapon Reloading
-## ✅  Disable Combat Rolling
-## ✅  Disable Aim Exploiting
-## ✅  Enable Presistent Flashlight
-## ✅  Enable Surrender Animation
-## ✅  Enable Crouch Animation
-## ✅  Enable Ragdoll Animation
-## ✅  Enable Brake Lights
-## ✅  Default Radio Station: OFF
-## ✅  Infinite Fire Extinguisher
-## ✅  Disable Flight Music
-## ✅  Disable Police Scanner
-## ✅  Disable Idle Camera
-## ✅  Disable Vehicle Damage (Anti VDM)
-## ✅  Enable Prop Fixer
-## ✅  Enable Presistent Wheels
-## ✅  Leave Engine Running When Holding F
-## ✅  Hide Radar On Foot
-## ✅  Hide Weapon Reticle
-## ✅  Hide Hud Elements
-## ✅  Ped & Vehicle Multiplier
+#### ✅  Disable Aim Assist
+#### ✅  Disable Drive By At High Speed
+#### ✅  Disable Stamina Regeneration
+#### ✅  Disable Health Regeneration
+#### ✅  Disable Vehicle Weapon Drops
+#### ✅  Disable Weapon Drops
+#### ✅  Disable Bunny Hopping
+#### ✅  Disable Automatic Weapon Reloading
+#### ✅  Disable Combat Rolling
+#### ✅  Disable Aim Exploiting
+#### ✅  Enable Presistent Flashlight
+#### ✅  Enable Surrender Animation
+#### ✅  Enable Crouch Animation
+#### ✅  Enable Ragdoll Animation
+#### ✅  Enable Brake Lights
+#### ✅  Default Radio Station: OFF
+#### ✅  Infinite Fire Extinguisher
+#### ✅  Disable Flight Music
+#### ✅  Disable Police Scanner
+#### ✅  Disable Idle Camera
+#### ✅  Disable Vehicle Damage (Anti VDM)
+#### ✅  Enable Prop Fixer
+#### ✅  Enable Presistent Wheels
+#### ✅  Leave Engine Running When Holding F
+#### ✅  Hide Radar On Foot
+#### ✅  Hide Weapon Reticle
+#### ✅  Hide Hud Elements
+#### ✅  Ped & Vehicle Multiplier
 
 ### FAQ
 1. Do I require any framework for this resource to work properly?
