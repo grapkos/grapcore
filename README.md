@@ -5,34 +5,34 @@
 > Miscellaneous FiveM scripts collection for enhancing player's gameplay experience
 
 ### Features listed here
-- ✅  Disable Aim Assist
-- ✅  Disable Drive By At High Speed
-- ✅  Disable Stamina Regeneration
-- ✅  Disable Health Regeneration
-- ✅  Disable Vehicle Weapon Drops
-- ✅  Disable Weapon Drops
-- ✅  Disable Bunny Hopping
-- ✅  Disable Automatic Weapon Reloading
-- ✅  Disable Combat Rolling
-- ✅  Disable Aim Exploiting
-- ✅  Enable Presistent Flashlight
-- ✅  Enable Surrender Animation
-- ✅  Enable Crouch Animation
-- ✅  Enable Ragdoll Animation
-- ✅  Enable Brake Lights
-- ✅  Default Radio Station: OFF
-- ✅  Infinite Fire Extinguisher
-- ✅  Mute Flight Music
-- ✅  Mute Police Scanner
-- ✅  Disable Idle Camera
-- ✅  Disable Vehicle Damage (Anti VDM)
- -✅  Prevent Props Stacking
-- ✅  Enable Presistent Wheels
-- ✅  Leave Engine Running When Holding F
-- ✅  Hide Radar On Foot
-- ✅  Hide Weapon Reticle
-- ✅  Hide Hud Elements
-- ✅  Ped & Vehicle Multiplier
+<br>✅  Disable Aim Assist</br>
+<br> ✅  Disable Drive By At High Speed</br>
+<br> ✅  Disable Stamina Regeneration</br>
+<br> ✅  Disable Health Regeneration</br>
+<br> ✅  Disable Vehicle Weapon Drops</br>
+<br> ✅  Disable Weapon Drops</br>
+<br> ✅  Disable Bunny Hopping</br>
+<br> ✅  Disable Automatic Weapon Reloading</br>
+<br> ✅  Disable Combat Rolling</br>
+<br> ✅  Disable Aim Exploiting</br>
+<br> ✅  Enable Presistent Flashlight</br>
+<br> ✅  Enable Surrender Animation</br>
+<br> ✅  Enable Crouch Animation</br>
+<br> ✅  Enable Ragdoll Animation</br>
+<br> ✅  Enable Brake Lights</br>
+<br> ✅  Default Radio Station: OFF</br>
+<br> ✅  Infinite Fire Extinguisher</br>
+<br> ✅  Mute Flight Music</br>
+<br> ✅  Mute Police Scanner</br>
+<br> ✅  Disable Idle Camera</br>
+<br> ✅  Disable Vehicle Damage (Anti VDM)</br>
+<br> ✅  Prevent Props Stacking</br>
+<br> ✅  Enable Presistent Wheels</br>
+<br> ✅  Leave Engine Running When Holding F</br>
+<br> ✅  Hide Radar On Foot</br>
+<br> ✅  Hide Weapon Reticle</br>
+<br> ✅  Hide Hud Elements</br>
+<br> ✅  Ped & Vehicle Multiplier</br>
 
 ### FAQ
 1. Do I require any framework for this resource to work properly?
