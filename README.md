@@ -42,4 +42,7 @@
      - If any suggestion comes to your mind, feel free to contact me on Discord `@grapkos`
        - Maybe, I will add some new features later.
 
+3. What is the `handling.meta` for?
+     - It is a file improving behaviour of AI vehicles when an emergency vehicle is passing by.
+
 <sub>Disclaimer: This is just a collection of quality of life scripts combined in one resource. I definitely did not write all sections of this code. I only drew from open source and free projects. If this is your code and you feel harmed, contact me. I am sure we will figure things out.</sub>
