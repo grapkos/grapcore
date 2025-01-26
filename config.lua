@@ -67,7 +67,7 @@ Config.HideHudElements = true
     }
 Config.AIMultiplier = true
     Config.TrafficAmount = 100 
-    Config.PedestrianAmount = 100
+    Config.PedestrianAmount = 10
     Config.ParkedAmount = 100
     Config.EnableDispatch = true
     Config.EnableBoats = true
