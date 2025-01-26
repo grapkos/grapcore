@@ -66,9 +66,9 @@ Config.HideHudElements = true
         HUD_STREET_NAME = 9, HUD_STREET_NAME = 9, HUD_CASH_CHANGE = 13, HUD_SAVING_GAME = 17, HUD_GAME_STREAM = 18
     }
 Config.AIMultiplier = true
-    Config.TrafficAmount = 200 
-    Config.PedestrianAmount = 500
-    Config.ParkedAmount = 500
+    Config.TrafficAmount = 100 
+    Config.PedestrianAmount = 100
+    Config.ParkedAmount = 100
     Config.EnableDispatch = true
     Config.EnableBoats = true
     Config.EnableTrains = true
