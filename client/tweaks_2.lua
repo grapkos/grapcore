@@ -162,43 +162,42 @@ end
 
 
 if Config.EnableRagdoll then
-    local isInRagdoll = false
-    local ragdollKey = 'U'
-    
-    RegisterCommand('ragdoll', function()
-        local playerPed = PlayerPedId()
-    
-        if isInRagdoll then
-            isInRagdoll = false
-        else
-            isInRagdoll = true
-        end
-    end, false)
-    
-    RegisterKeyMapping('ragdoll', 'Toggle Ragdoll', 'keyboard', ragdollKey)
-    
+    RegisterKeyMapping("ragdoll", "Toggle Ragdoll", "keyboard", 'U')
+
+    local ragdoll = false
+    function setRagdoll(flag)
+    ragdoll = flag
+    end
     Citizen.CreateThread(function()
-        while true do
-            Citizen.Wait(10)
-            if isInRagdoll then
-                SetPedToRagdoll(GetPlayerPed(-1), 1000, 1000, 0, 0, 0, 0)
-            end
+    while true do
+        Citizen.Wait(0)
+        if ragdoll then
+    	    SetPedToRagdoll(GetPlayerPed(-1), 1000, 1000, 0, 0, 0, 0)
+		    local playerPed = GetPlayerPed(-1)
+		    local Vehicle = GetVehiclePedIsIn(playerPed, false);
+		    if Vehicle ~= 0 then
+			    SetEntityAsMissionEntity(Vehicle, true, true);  
+			    TaskLeaveVehicle(playerPed, Vehicle, 4160);
+		    end
         end
+    end
     end)
-    
-    Citizen.CreateThread(function()
-        while true do
-            Citizen.Wait(0)
-            if IsControlJustPressed(2, 303) and IsPedOnFoot(PlayerPedId()) then
-                if isInRagdoll then
-                    isInRagdoll = false
-                else
-                    isInRagdoll = true
-                    Wait(500)
-                end
-            end
-        end
-    end)    
+
+    ragdol = true
+    RegisterNetEvent("Ragdoll")
+    AddEventHandler("Ragdoll", function()
+	    if ( ragdol ) then
+		    setRagdoll(true)
+		    ragdol = false
+	    else
+		    setRagdoll(false)
+		    ragdol = true
+	    end
+    end)
+
+    RegisterCommand("ragdoll", function(source, args, rawCommand)
+	    TriggerEvent("Ragdoll", source)
+    end)
 end
 
 
