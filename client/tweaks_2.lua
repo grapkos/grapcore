@@ -162,7 +162,7 @@ end
 
 
 if Config.EnableRagdoll then
-    RegisterKeyMapping("ragdoll", "Toggle Ragdoll", "keyboard", 'U')
+    RegisterKeyMapping("ragdoll", "Toggle Ragdoll", "keyboard", 'K')
 
     local ragdoll = false
     function setRagdoll(flag)
