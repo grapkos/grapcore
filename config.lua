@@ -82,3 +82,5 @@ Config.AIMultiplier = true
 
 https://docs.fivem.net/docs/game-references/controls/
 --]]
+
+Config.EnableInjuredAnimation = true
