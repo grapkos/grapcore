@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=grapkos&color=4635B1&abbreviated=true&label=REPOSITORY+VIEWS&style=for-the-badge) ![](https://img.shields.io/badge/LAST%20UPDATED%3A%201%2F26%2F2025-4635B1?style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=grapkos&color=4635B1&abbreviated=true&label=REPOSITORY+VIEWS&style=for-the-badge) ![](https://img.shields.io/badge/LAST%20UPDATED%3A%202%2F02%2F2025-4635B1?style=for-the-badge)
 
 
 # grapcore 2.0
@@ -33,6 +33,7 @@
 <br> ✅  Hide Weapon Reticle</br>
 <br> ✅  Hide Hud Elements</br>
 <br> ✅  Ped & Vehicle Multiplier</br>
+<br> ✅  Injured Walking Style</br>
 
 ### FAQ
 1. Do I require any framework for this resource to work properly?
